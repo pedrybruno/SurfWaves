@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-ene-2014, 0:33:57
+    Author     : Bruno
+*/
+
+body {
+    font-family: monospace;
+    font-size: smaller;
+    padding: 50px;
+    color: #000000;
+    background-color: #6495ED;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: normal;
+    font-size: 32px;
+    color: #000000;
+    font-weight: normal;
+}
+
+h2 {
+    text-align: left;
+    letter-spacing: normal;
+    font-size: 18px;
+    color: #000000;
+    font-weight: normal;
+}
+
+h3 {
+    text-align: center;
+    letter-spacing: normal;
+    font-size: 18px;
+    color: #000000;
+    font-weight: normal;
+}
+
+h4 {
+    position:absolute;
+    bottom: 50px;
+    right: 50px;
+}
+
+table {
+    width: 100%;
+    padding: 10px;
+    background-color: #DFF2FA;
+}
+
+thead {
+    font-weight: bold;
+}
